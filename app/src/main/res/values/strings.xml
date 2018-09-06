@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Widgets Experiment</string>
+    <string name="strButtonleft">LeftButton</string>
+    <string name="strButtonright">Right Button</string>
+    <string name="strNewTest">New Text</string>
+    <string name="strDescImagen">Imagen android</string>
+</resources>
